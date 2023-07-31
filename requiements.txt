@@ -1,0 +1,10 @@
+bidict==0.22.1
+dnspython==2.4.1
+eventlet==0.33.3
+greenlet==2.0.2
+ifcfg==0.24
+ipget==0.0.3
+python-engineio==3.14.2
+python-socketio==4.6.1
+SimpleWebSocketServer==0.1.2
+six==1.16.0
